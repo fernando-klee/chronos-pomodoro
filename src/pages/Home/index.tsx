@@ -9,7 +9,7 @@ type HomeProps = {
   setState: React.Dispatch<React.SetStateAction<TaskStateModel>>;
 }
 
-export function Home(props: HomeProps) {
+export function Home() {
   //const { state, setState } = props;
 
   return (
